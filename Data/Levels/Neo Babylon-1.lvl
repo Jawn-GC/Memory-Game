@@ -1,0 +1,155 @@
+\-altar_room_chance                      0
+\-back_room_chance                       0
+\-back_room_hidden_door_cache_chance     0
+\-back_room_hidden_door_chance           0
+\-back_room_interconnection_chance       0
+\-background_chance                      0
+\-flagged_liquid_rooms                   0
+\-floor_bottom_spread_chance             0
+\-floor_side_spread_chance               0
+\-ground_background_chance               0
+\-idol_room_chance                       0
+\-machine_bigroom_chance                 0
+\-machine_rewardroom_chance              0
+\-machine_tallroom_chance                0
+\-machine_wideroom_chance                0
+\-max_liquid_particles                   0
+\-mount_chance                           0
+\-size                                   2 4
+
+\?floor                            1
+\?empty                            0
+\?floor_hard                       X
+\?babylon_floor                    !
+\?forcefield_horizontal            "
+\?entrance                         #
+\?spark_trap                       $
+\?forcefield_top                   %
+\?forcefield_horizontal_top        &
+\?laser_trap                       '
+\?timed_forcefield                 (
+\?forcefield                       )
+\?lava                             *
+\?elevator                         +
+\?bone_block                       -
+\?push_block                       .
+\?conveyorbelt_left                3
+\?conveyorbelt_right               4
+\?exit                             ,
+\?pagoda_platform                  <
+\?walltorch                        2
+\?ladder                           5
+\?torches                          7
+\?necromancer                      6
+\?ushabti                          8
+\?litwalltorch                     9
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom0_0   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+!!!!!!!!!!
+!!!!!!!!!!
+!!!0000000
+!!!0000000
+!!!0000000
+!!!0000000
+!!!0000000
+!!!0000000
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom0_1   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+!!!!!!!!!!
+!!!!!!!!!!
+0000000!!!
+0000000!!!
+0000000!!!
+0000000!!!
+0000000!!!
+0000000!!!
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom1_0   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+\!dual
+!!!0000000 XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+!!!0000000 XXXXXXXX!!
+!!!0000000 XXXXXXXX!0
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom1_1   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+\!dual
+0000000!!! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000!!! !!XXXXXXXX
+0000000!!! 0!XXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom2_0   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+\!dual
+!!00000000 XXXXXXXX!!
+!!!0000000 XXXXXXXXXX
+!0!0700000 XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+!!%0000000 XXXXXXXXXX
+!!0000000# XXXXXXXXXX
+!!)<<<<<<< XXXXXXXXXX
+!!!0000000 XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom2_1   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+\!dual
+00000000!! !!XXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000!0! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+0000000%!! XXXXXXXXXX
+00000000!! XXXXXXXXXX
+<<<<<<<)!! XXXXXXXXXX
+0000000!!! XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom3_0   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+!!!0000000
+!!!*******
+!!!*******
+!!!*******
+!!!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom3_1   // babylon
+////////////////////////////////////////////////////////////////////////////////
+
+0000000!!!
+*******!!!
+*******!!!
+*******!!!
+!!!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!
+!!!!!!!!!!
